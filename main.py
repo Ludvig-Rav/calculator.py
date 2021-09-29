@@ -64,7 +64,7 @@ while True:
     elif operation == "c":
         print("Clear calculator!")
     elif operation == "e":
-        print("Thanks for using my calculator, see you next time!")
+        print("Thanks for using my calculator, see you next time!!!")
         exit()
     else:
         print("--->Seems that you have entered a invalid symbol, try again<---")
